@@ -131,7 +131,11 @@ ul {
   }
 
   h2 {
-    font-size: 18px;
+    font-size: 20px;
+  }
+
+  h3 {
+    font-size: 17px;
   }
 
   .main-head #profile-head {
