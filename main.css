@@ -17,10 +17,6 @@ a {
   text-decoration: none;
 }
 
-.main-head #profile-head .head-text {
-  width: 850px;
-}
-
 .main-head #profile-head {
   padding-top: 100px;
   height: 200px;
@@ -29,6 +25,14 @@ a {
   background-color: var(--maincolor);
   margin: 0;
   clip-path: ellipse(81% 100% at 49.38% 0%);
+}
+
+.main-head #profile-head .head-text {
+  width: 850px;
+}
+
+.main-head #profile-head .job-title h2 {
+  font-weight: 400;
 }
 
 .content-inner {
